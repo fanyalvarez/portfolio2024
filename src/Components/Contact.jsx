@@ -4,7 +4,7 @@ import { FooterButon } from "./Elements/FooterButon.jsx";
 
 export const Contact = () => {
   return (
-    <section className="pb-20 bg-[url(./footer.avif)]">
+    <section className="pb-20 bg-[url(/footer123.jpg)]">
       <h3 className="contact">Contact</h3>
 
       <div className="flex justify-evenly mx-auto flex-wrap mt-20 content-center">
