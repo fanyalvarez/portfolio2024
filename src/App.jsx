@@ -13,14 +13,19 @@ function App() {
 
      <Principal></Principal>
 
+     <a name="about"></a>
      <About></About>
 
+     <a name="projects"></a>
      <Projects></Projects>
 
+     <a name="skills"></a>
       <Skills></Skills>
-
+      
+      <a name="experience"></a>
       <Experience></Experience>
-
+      
+      <a name="contact"></a>
       <Contact></Contact>
     </>
   );

@@ -9,14 +9,15 @@ export const Form = () => {
 
     emailjs
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        'service_nwlyayr',
+        'template_f0vrfmq',
         form.current,
-        "YOUR_PUBLIC_KEY"
+        'a_7TFk1gyQDu9xtgh'
       )
       .then(
         (result) => {
           console.log(result.text);
+          window.alert("The e-mail has been sent successfully")
         },
         (error) => {
           console.log(error.text);
@@ -39,7 +40,8 @@ export const Form = () => {
           <label className="w-full">Message</label>
           <textarea className="w-full" name="message" rows={4} />
         </div>
-        <input className="rounded-lg py-2 bg-pink-200 w-32 mx-auto" type="submit" value="Send" />
+        <button className="rounded-lg py-2 bg-pink-200 w-32 mx-auto " type="submit" value="Send"> Send </button>
+        {/* <input  /> */}
       </form>
     </>
   );

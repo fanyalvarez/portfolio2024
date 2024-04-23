@@ -16,16 +16,16 @@ export const Projects = () => {
         <img src="./svg/tailwind.svg" alt="" id="svg-card"/>
         </>}</Card>
 
-        <Card img={'./imgs/lugares.png'} title={'Registro de Lugares'} url={'https://registerplaces.onrender.com/'} info={'vsd ffckj cks ccbwvdnccncnwew icnwcnwiaccna  '}>{<>
+        <Card img={'./imgs/lugares.png'} title={'Registro de Lugares'} url={'https://registerplaces.onrender.com/'} info={'  '}>{<>
         <img src="./svg/react.svg" alt="" id="svg-card"/>
         <img src="./svg/mui.svg" alt="" id="svg-card"/>
         </>}</Card>
-        <Card img={'./imgs/bodyshop.png'} title={'Clone Bodyshop App'} url={'https://the-body-shop.vercel.app/'} info={'vsd ffckj cks ccbwvdnccncnwew icnwcnwiaccna  '}>{<>
+        <Card img={'./imgs/bodyshop.png'} title={'Clone Bodyshop App'} url={'https://the-body-shop.vercel.app/'} info={'  '}>{<>
         <img src="./svg/html.svg" alt="" id="svg-card"/>
         <img src="./svg/css.svg" alt="" id="svg-card"/>
         <img src="./svg/js.svg" alt="" id="svg-card"/>
         </>}</Card>
-        <Card img={'./imgs/50days.png'} title={'Chanllenge 50 days HTML, CSS & JS'} url={'https://50projectsin50days.vercel.app/'} info={'vsd ffckj cks ccbwvdnccncnwew icnwcnwiaccna  '}>{<>
+        <Card img={'./imgs/50days.png'} title={'Chanllenge 50 days HTML, CSS & JS'} url={'https://50projectsin50days.vercel.app/'} info={'  '}>{<>
         <img src="./svg/html.svg" alt="" id="svg-card"/>
         <img src="./svg/css.svg" alt="" id="svg-card"/>
         <img src="./svg/js.svg" alt="" id="svg-card"/>
